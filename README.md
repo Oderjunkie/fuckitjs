@@ -7,7 +7,7 @@ FuckItJS uses state-of-the-art technology to make sure your javascript code runs
 Technology
 ----------
 
-Through a process known as *Eval-Rinse-Reload-And-Repeat*, FuckItJS repeatedly compiles your code, detecting errors and slicing those lines out of the script.
+Through a process known as *Eval-Rinse-Reload-Or-Repeat*, FuckItJS repeatedly compiles your code, detecting errors and slicing those lines out of the script.
 To survive such a violent process, FuckItJS reloads itself after each iteration, allowing the onerror handler to catch every single error in your terribly written code.
 
 Installation
